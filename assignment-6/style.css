@@ -1,0 +1,36 @@
+body{
+    background-image: url('video.jpg');
+    background-size: cover;
+}
+h1{ font-size: 80px;
+    color: aliceblue;
+}
+h3{
+    font-size: 30px;
+    border-radius:0cm;
+    color: aliceblue;
+}
+form{
+   
+    color: aliceblue;
+}
+input[type=text], select {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
